@@ -1,4 +1,4 @@
-# AYUSH-Apache-jira-scraper
+# AYUSH'S JIRA SCRAPER😎
 
 This project is a data scraping and transformation pipeline developed for a tutor assignment. It extracts public issue data from Apache’s Jira instance and converts it into a structured JSONL format, suitable for training Large Language Models (LLMs).
 
